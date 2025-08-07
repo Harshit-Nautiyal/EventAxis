@@ -42,9 +42,6 @@ You're now up and running with EventAxis!
 
 ---
 
-## 👨‍💻 Contributor
-
-* **Aarush Luthra** – Core Developer 💡
 
 
 
